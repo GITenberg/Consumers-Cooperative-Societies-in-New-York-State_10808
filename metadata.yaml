@@ -1,11 +1,16 @@
 _repo: Consumers-Cooperative-Societies-in-New-York-State_10808
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Consumers' League of New York City
     gutenberg_agent_id: '3690'
     url: http://www.gutenberg.org/2009/agents/3690
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10808#Consumers-Cooperative-Societies-in-New-York-State
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
